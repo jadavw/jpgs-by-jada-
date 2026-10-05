@@ -1,0 +1,6 @@
+{
+  "name": "Editorial Photography Portfolio",
+  "description": "A high-end, minimalist photography portfolio featuring a masonry grid, EXIF lightbox, and dark mode aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
